@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(92,76): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(106,90): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(120,86): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ConsoleApplication2.vcxproj -> C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

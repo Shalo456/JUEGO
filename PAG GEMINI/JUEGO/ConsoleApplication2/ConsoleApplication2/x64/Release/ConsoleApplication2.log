@@ -1,0 +1,9 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(92,76): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(106,90): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(120,86): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 381 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  ConsoleApplication2.vcxproj -> C:\Users\Shalomiel\Desktop\PAG GEMINI\JUEGO\ConsoleApplication2\x64\Release\ConsoleApplication2.exe
